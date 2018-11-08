@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Gray-Y-Dark
+Comment=A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Gray-Y-Dark
+MetacityTheme=Gray-Y-Dark
+IconTheme=Gray-Y
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
